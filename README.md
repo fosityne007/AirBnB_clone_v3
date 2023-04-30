@@ -40,7 +40,7 @@ A documentation is not a simple word, it’s a real sentence explaining what’s
 
 ## Installation
 
-* Clone this repository: `git clone "https://github.com/ralexrivero/AirBnB_clone_v3"`
+* Clone this repository: `git clone "https://github.com/fosityne007/AirBnB_clone_v3"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
